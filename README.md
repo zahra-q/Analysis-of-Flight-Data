@@ -23,3 +23,11 @@ Since every data analysis project should start with a set of questions and an ob
 
 
 
+## Conclusions 
+
+Here are some conclusions that our analysis gave us: 
+#### There are a total of 371 airports and 17 carriers in the US
+#### The airports with the most delays over the years were located in Orlando, Denver, Dallas, Chicago, and Atlanta
+#### Southwest Airlines had a much greater amount of delays overall compared to all other airlines 
+#### The highest number of arriving flights have been via Southwest Airlines
+
